@@ -2,7 +2,7 @@ header{
     background-color: var(--color-primary);
     height: 60px;
     display: flex;
-    align-items: cente
+    align-items:center ;
 }
 
 .dsmovie-nav-content{
