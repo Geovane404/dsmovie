@@ -4,8 +4,6 @@
 
 # Sobre o projeto
 
-https://geovane-dsmovie.netlify.app/
-
 DSMovie é uma aplicação full stack web construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 A aplicação consiste em um sistema de avaliações de filmes em que a cada nova avaliação o score é atualizado e exibido ao usuário.
 A aplicação exibe ainda um catálogo de filmes paginados. 
